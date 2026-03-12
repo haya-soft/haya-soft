@@ -21,7 +21,7 @@
 
 ## 📫 Contact
 - Email: haya.a.alayyan@gmail.com  
-- LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/haya-alayyan)
+- LinkedIn: [linkedin.com/in/haya-alayyan](https://linkedin.com/in/haya-alayyan)
 
 ---
 ✨ This profile README will be updated as I build more projects and learn new skills!
