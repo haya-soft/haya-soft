@@ -18,12 +18,11 @@
 - Tools: Git, GitHub  
 
 ---
-
 ## 📫 Contact
 - Email: haya.a.alayyan@gmail.com  
 - LinkedIn: [linkedin.com/in/haya-alayyan](https://linkedin.com/in/haya-alayyan)
 
 ---
-✨ This profile README will be updated as I build more projects and learn new skills!
+
 ✨ This profile README will be updated as I build more projects and learn new skills!
 
